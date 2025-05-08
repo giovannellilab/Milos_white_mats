@@ -8,7 +8,7 @@
 [![giovannellilab](https://img.shields.io/badge/BY-Giovannelli_Lab-blue)](http:s//www.donatogiovannelli.com)
 [![made-with-Markdown](https://img.shields.io/badge/Coded%20in-R-red.svg)](https://www.r-project.org/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![DOI](https://zenodo.org/badge/838280445.svg)](https://doi.org/10.5281/zenodo.14966492)
+[![DOI](https://zenodo.org/badge/XXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
 
 
 The present repository contains the data and code relative to the Pilliciari Silva et al. 2025 manuscript on the microbiology of the shallow-water hydrothermal vents of Milos Island, Greece. All the sequences used in this study are available through ENA under project accession PRJEB88540 within the umbrella project COEVOLVE, with acession PRJEB55081.
