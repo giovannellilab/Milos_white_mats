@@ -16,7 +16,13 @@ The present repository contains the data and code relative to the Pelliciari Sil
 The repository contains the following files (under the directory *Data*):
 
 - *README.md* (this readme file)
-- 
+- qiime_analysis_multi.sh  containing the QIIME 1.8 pipeline for single-sample OTU picking, chimera filtering, taxonomy assignment, and diversity analysis from demultiplexed sequences
+- grid_gen.m
+read_plot_sh.m
+read_plot_sh2.m
+shear_obst.c
+shear_obst_2.c
+chem_stuff.c for the Lattice Boltzmann Method model
 
 **Please cite as:**
 
