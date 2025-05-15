@@ -11,7 +11,7 @@
 [![DOI](https://zenodo.org/badge/XXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
 
 
-The present repository contains the data and code relative to the Pilliciari Silva et al. 2025 manuscript on the microbiology of the shallow-water hydrothermal vents of Milos Island, Greece. All the sequences used in this study are available through ENA under project accession PRJEB88540 within the umbrella project COEVOLVE, with acession PRJEB55081.
+The present repository contains the data and code relative to the Pelliciari Silva et al. 2025 manuscript on the microbiology of the shallow-water hydrothermal vents of Milos Island, Greece. All the sequences used in this study are available through ENA under project accession PRJEB88540 within the umbrella project COEVOLVE, with acession PRJEB55081.
 
 The repository contains the following files (under the directory *Data*):
 
