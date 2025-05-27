@@ -26,4 +26,4 @@ chem_stuff.c for the Lattice Boltzmann Method model
 
 **Please cite as:**
 
-Ana Clara Pelliciari Silva, Flavia Migliaccio, Bernardo Barosa, Luigi Gallucci, Yücel Mustafa, Dionysis Foustoukos, Nadine Le Bris, Stuart J. Bartlett, Valerio D’Alessandro, Donato Giovannelli1 and Costanino Vetriani. 2025. Hydrodynamic flow and benthic boundary layer interactions shape the microbial community in Milos’ shallow water hydrothermal vents. _Preprint_
+Ana Clara Pelliciari Silva, Flavia Migliaccio, Bernardo Barosa, Luigi Gallucci, Yücel Mustafa, Dionysis Foustoukos, Nadine Le Bris, Stuart J. Bartlett, Valerio D’Alessandro, Donato Giovannelli and Costanino Vetriani. 2025. Hydrodynamic flow and benthic boundary layer interactions shape the microbial community in Milos’ shallow water hydrothermal vents. _Preprint_
